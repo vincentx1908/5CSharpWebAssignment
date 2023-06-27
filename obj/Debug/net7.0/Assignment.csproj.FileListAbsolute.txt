@@ -1,0 +1,15 @@
+F:\STUDY FILES\ICTPRG547 Advance C# Web\Assessment\Assignment\bin\Debug\net7.0\Assignment.exe
+F:\STUDY FILES\ICTPRG547 Advance C# Web\Assessment\Assignment\bin\Debug\net7.0\Assignment.deps.json
+F:\STUDY FILES\ICTPRG547 Advance C# Web\Assessment\Assignment\bin\Debug\net7.0\Assignment.runtimeconfig.json
+F:\STUDY FILES\ICTPRG547 Advance C# Web\Assessment\Assignment\bin\Debug\net7.0\Assignment.dll
+F:\STUDY FILES\ICTPRG547 Advance C# Web\Assessment\Assignment\bin\Debug\net7.0\Assignment.pdb
+F:\STUDY FILES\ICTPRG547 Advance C# Web\Assessment\Assignment\obj\Debug\net7.0\Assignment.csproj.AssemblyReference.cache
+F:\STUDY FILES\ICTPRG547 Advance C# Web\Assessment\Assignment\obj\Debug\net7.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+F:\STUDY FILES\ICTPRG547 Advance C# Web\Assessment\Assignment\obj\Debug\net7.0\Assignment.AssemblyInfoInputs.cache
+F:\STUDY FILES\ICTPRG547 Advance C# Web\Assessment\Assignment\obj\Debug\net7.0\Assignment.AssemblyInfo.cs
+F:\STUDY FILES\ICTPRG547 Advance C# Web\Assessment\Assignment\obj\Debug\net7.0\Assignment.csproj.CoreCompileInputs.cache
+F:\STUDY FILES\ICTPRG547 Advance C# Web\Assessment\Assignment\obj\Debug\net7.0\Assignment.dll
+F:\STUDY FILES\ICTPRG547 Advance C# Web\Assessment\Assignment\obj\Debug\net7.0\refint\Assignment.dll
+F:\STUDY FILES\ICTPRG547 Advance C# Web\Assessment\Assignment\obj\Debug\net7.0\Assignment.pdb
+F:\STUDY FILES\ICTPRG547 Advance C# Web\Assessment\Assignment\obj\Debug\net7.0\Assignment.genruntimeconfig.cache
+F:\STUDY FILES\ICTPRG547 Advance C# Web\Assessment\Assignment\obj\Debug\net7.0\ref\Assignment.dll
